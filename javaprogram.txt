@@ -1,0 +1,6 @@
+
+
+welcome to java program
+
+using scanner class
+by creating obj
